@@ -25,4 +25,6 @@ Feel free to contribute to the repository by adding new books to any of the cate
 
 If you encounter any issues or have suggestions for improvement, please open an issue in the [Issues tab](https://github.com/Garrixxc/Books/issues).
 
+If you find this repository helpful, consider supporting my work with a coffee! ☕ [Buy me a coffee](https://buymeacoffee.com/gaurav1).
+
 Happy Reading! 📚✨
